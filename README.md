@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to Omar!
+
+I am currently a student at UNT in the school of engineering! I'm new to Github, and I want to learn more about how to use it to help develop skills. I'm currently working on a web development course! 📖
 
 <!--
 **opedrazza/opedrazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
